@@ -1,0 +1,27 @@
+        body{
+           display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #main{
+            display: flex;
+            align-items: center;
+            justify-content:space-evenly;
+            padding: 10px;
+            height: 400px;
+            width: 250px;
+            background-color: darkgoldenrod;
+        }
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        h1{
+            background-color: brown;
+            color: white;
+        }
+       span{
+        display: flex;
+       }
